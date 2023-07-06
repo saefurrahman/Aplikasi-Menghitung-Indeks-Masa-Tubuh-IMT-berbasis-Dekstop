@@ -14,3 +14,6 @@ menggunakan NetBeans IDE 12.0
 jangan lupa di Builld dulu
 
 enjoy ya ygy :) 
+
+
+Mau nyoba langsung di PCmu Dowload aja linknya : bit.ly/IMTApps_Mamen
