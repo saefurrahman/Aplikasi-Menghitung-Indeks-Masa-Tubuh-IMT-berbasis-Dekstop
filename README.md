@@ -17,3 +17,5 @@ enjoy ya ygy :)
 
 
 Mau nyoba langsung di PCmu Dowload aja linknya : bit.ly/IMTApps_Mamen
+
+Jangan lupa pastikan PC atau Laptopkamu sudah ada Javanya minimal java 8
