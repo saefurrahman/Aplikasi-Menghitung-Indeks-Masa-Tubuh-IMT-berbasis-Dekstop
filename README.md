@@ -4,7 +4,7 @@ Aplikasi menghitung Ideks Masa Tubuh (IMT) yang fungsinya sebagai sarana kita me
 Saya membuat ini dengan Java 12.0
 Aplikasi hanya menggunakan inputan lokal saja.
 silahkan gunakan sesuka hati 
-running HitungIMT.java
+running HitungIMT.java menggunakan NetBeans IDE 12.0
 
 
 enjoy ya ygy :) 
